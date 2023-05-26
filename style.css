@@ -1,0 +1,27 @@
+.circle {
+  border-radius: 50%;
+
+  background: red;
+
+  transition: 0.5s;
+}
+
+.square {
+  background: yellow;
+}
+
+div {
+  background: yellow;
+
+  margin: auto;
+
+  display: block;
+
+  width: 200px;
+
+  height: 200px;
+
+  border: 1px solid black;
+
+  transition: 0.5s;
+}
